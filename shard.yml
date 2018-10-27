@@ -1,0 +1,19 @@
+name: kemal-api-server
+version: 0.1.0
+
+authors:
+  - Gabriel Wu <qqbbnease1004@126.com>
+
+targets:
+  src:
+    main: src/src.cr
+
+dependencies:
+  spec-kemal:
+    github: kemalcr/spec-kemal
+  kemal:
+    github: kemalcr/kemal
+
+crystal: 0.26.1
+
+license: MIT
