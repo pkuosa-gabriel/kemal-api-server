@@ -1,4 +1,4 @@
-# kemal-api-server (code name: pamphleteer)
+# kemal-api-server (code name: _Pamphleteer_)
 
 TODO: Write a description here
 
