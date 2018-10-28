@@ -1,4 +1,4 @@
 require "spec"
 require "spec-kemal"
 require "json"
-require "../src/src"
+require "../src/app"

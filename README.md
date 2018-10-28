@@ -1,18 +1,18 @@
 # kemal-api-server (code name: _Pamphleteer_)
 
-TODO: Write a description here
+<!-- TODO: Write a description here -->
 
 ## Installation
 
-TODO: Write installation instructions here
+<!-- TODO: Write installation instructions here -->
 
 ## Usage
 
-TODO: Write usage instructions here
+<!-- TODO: Write usage instructions here -->
 
 ## Development
 
-TODO: Write development instructions here
+<!-- TODO: Write development instructions here -->
 
 ## Contributing
 

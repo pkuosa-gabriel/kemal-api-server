@@ -6,9 +6,17 @@ authors:
 
 targets:
   src:
-    main: src/src.cr
+    main: src/app.cr
 
 dependencies:
+  faker:
+    github: askn/faker
+  pg:
+    github: will/crystal-pg
+  crecto:
+    github: fridgerator/crecto
+  micrate:
+    github: amberframework/micrate
   spec-kemal:
     github: kemalcr/spec-kemal
   kemal:
