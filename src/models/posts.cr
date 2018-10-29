@@ -4,4 +4,6 @@ class Post < Crecto::Model
     field :title, String
     field :content, String
   end
+
+  unique_constraint :uuid
 end
