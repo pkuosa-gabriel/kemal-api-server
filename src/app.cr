@@ -129,4 +129,5 @@ module WebSocket
   end
 end
 
+logging false
 Kemal.run
