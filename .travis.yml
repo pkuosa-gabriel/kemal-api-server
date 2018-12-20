@@ -1,1 +1,10 @@
 language: crystal
+
+branches:
+  only:
+    - master
+
+script:
+  - shards install
+  - KEMAL_ENV=test crystal spec -d
+  - shards build
